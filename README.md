@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="http://benyahia-abdennour.000webhostapp.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/abdennour-benyahia-8a36451a4/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="http://benyahia-abdennour.000webhostapp.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][http://benyahia-abdennour.000webhostapp.com/]
+[<img align="left" alt="https://www.linkedin.com/in/abdennour-benyahia-8a36451a4/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]["https://www.linkedin.com/in/abdennour-benyahia-8a36451a4/]
 
 
 <br />
