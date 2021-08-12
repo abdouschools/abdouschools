@@ -2,13 +2,15 @@
 
 [![Website](https://img.shields.io/website?label=benyahia-abdennour.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://benyahia-abdennour.000webhostapp.com/)
 
-<img align="center" alt="codeur" width="600px" src="https://github.com/abdouschools/abdouschools/blob/main/Developpeur-web_banner.jpg" />
+<img align="center" alt="codeur" src="https://github.com/abdouschools/abdouschools/blob/main/Developpeur-web_banner.jpg" />
 ## I'm a  Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning advanced php _symfony 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
+ 
+
 
 ### Connect with me:
 
@@ -35,6 +37,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### stats
+
+![Abdennour's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdouschools&show_icons=true&theme=tokyonight)
 
 
 
